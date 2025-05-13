@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=web-altaf-1&color=orange"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=altafhossen-pro&color=orange"
     alt="adam-pw" /> 
   </p>
 
@@ -17,17 +17,17 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@altaftechnology1">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/web-altaf-1?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/web-altaf-1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/web-altaf-1?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/web-altaf-1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/altafhossen-pro?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/altafhossen-pro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/altafhossen-pro?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/altafhossen-pro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
 
 | Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Weapons 🌟                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📎 [Resume/CV](./resume/Altaf.pdf)<br>✉ [web-altaf-1@gmail.com](mailto:web.altaf.1@gmail.com)<br>🎁 [web-altaf-1](https://www.showwcase.com/web-altaf-1)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/altaf.hossen.dev)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/md_altaf_hossen1)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=twitter&logoColor=61DBFB)](https://twitter.com/web-altaf-1)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/altafhossen) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-altaf-1&theme=react)](https://github.com/web-altaf-1/github-readme-stats) |
+| 📎 [Resume/CV](./resume/Altaf.pdf)<br>✉ [altafhossen-pro@gmail.com](mailto:web.altaf.1@gmail.com)<br>🎁 [altafhossen-pro](https://www.showwcase.com/altafhossen-pro)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/altaf.hossen.dev)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/md_altaf_hossen1)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=twitter&logoColor=61DBFB)](https://twitter.com/altafhossen-pro)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/altafhossen) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altafhossen-pro&theme=react)](https://github.com/altafhossen-pro/github-readme-stats) |
 
 ### ⚙ Most uses of Technology
 
@@ -105,24 +105,24 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=web-altaf-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="web-altaf-1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=altafhossen-pro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="altafhossen-pro" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-altaf-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="web-altaf-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altafhossen-pro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="altafhossen-pro" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-altaf-1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="web-altaf-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altafhossen-pro&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="altafhossen-pro" /></p>
 
 <br> <br>
 
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://github.com/web-altaf-1/web-altaf-1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/altafhossen-pro/altafhossen-pro/blob/output/github-contribution-grid-snake.svg)
 
 
 #
