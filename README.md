@@ -37,7 +37,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 [![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
 [![NextJs](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)
-[![electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
 [![native](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
 [![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
@@ -49,11 +48,7 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <img align="left" alt="JavaScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="Java" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
 <img align="left" alt="TypeScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img align="left" alt="c-sharp" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
@@ -88,15 +83,11 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <img align="left" alt="Bash" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<img align="left" alt="Electronjs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-
 <img align="left" alt="GraphQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 
 <img align="left" alt="Android" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
 
 <img align="left" alt="Socket.io" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-
-<img align="left" alt="Apple" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
 <img align="left" alt="TensorFlow" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
