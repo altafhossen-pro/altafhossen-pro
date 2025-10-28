@@ -8,7 +8,8 @@
   </p>
 
 <br>
-Hi, this is Altaf—a full stack developer specializing in ReactJs, FastAPI, NodeJs, React-native, NextJs, and Spring boot. I have been developing full-stack applications for more than 2 years. I am an expert in JavaScript because I love it so much.😍
+Hi, I’m a Full-Stack Developer specializing in React.js, Next.js, Node.js & React Native.
+With 3+ years of experience building scalable web & mobile applications, I absolutely love working with JavaScript — it’s my superpower! ⚡😍
 
 Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[Altaf Technnology](https://www.youtube.com/@altaftechnology1)" to more than **1000 subscribers**.
 
